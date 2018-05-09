@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="DiscuzWhiteTest">
+
+
+    <test name="product">
+        <parameter name="Browser" value="Firefox" />
+
+        <classes>
+            <class name="util.SeleniumUtil"/>
+        </classes>
+    </test>
+</suite>
