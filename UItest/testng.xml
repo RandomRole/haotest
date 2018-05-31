@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+  <suite name="Discuztest">
+    <parameter name="browser" value="chrome"/>
+    <test name="product">
+    <classes>
+      <class name=""></class>
+    </classes>
+    </test>
+  </suite>
